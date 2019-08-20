@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{607:function(e,n,t){"use strict";t.r(n),t.d(n,"default",function(){return a});var c=t(0),u=t.n(c);function a(){const[e,n]=Object(c.useState)(0);return u.a.createElement("div",null,u.a.createElement("p",null,"You clicked ",e," times"),u.a.createElement("button",{onClick:()=>n(e+1)},"Click me"))}}}]);
+//# sourceMappingURL=30.972919be73333b51d7a5.chunk.js.map

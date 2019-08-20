@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./app/components/containers/dynamic/Taste.js"],"names":["className"],"mappings":"2FAAA,2BAEe,cACN,0BAAMA,UAAU,aAAhB","file":"scripts/33.0efb39f3ab607b7ac026.chunk.js","sourcesContent":["import React from \"react\"\n\nexport default () => {\n  return <main className=\"container\">\n    It tastes fantastic!\n  </main>\n}\n"],"sourceRoot":""}

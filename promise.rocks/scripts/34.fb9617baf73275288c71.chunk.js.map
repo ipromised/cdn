@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./app/components/containers/dynamic/Test.js"],"names":["className"],"mappings":"2FAAA,2BAEe,cACN,0BAAMA,UAAU,aAAhB","file":"scripts/34.fb9617baf73275288c71.chunk.js","sourcesContent":["import React from \"react\"\n\nexport default () => {\n  return <main className=\"container\">\n    hell world.\n  </main>\n}\n"],"sourceRoot":""}
